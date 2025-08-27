@@ -41,7 +41,8 @@ I'm a **DevOps Engineer** with **9+ years of experience**, specializing in **Obs
             width="100" width="100" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
             <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100"
-            width="100" /> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
+            width="100" /> 
+<a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
  <!-- Apache Druid -->
 <a href="https://druid.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://druid.apache.org/img/druid-nav-logo.svg"
