@@ -13,6 +13,12 @@ I'm a **DevOps Engineer** with **9+ years of experience**, specializing in **Obs
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="100" height="100" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"                                    
         rel="noreferrer">
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg"
+       alt="azure" width="100" height="100" />
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+       alt="gcp" width="100" height="100" />
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="100"
             height="100" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
