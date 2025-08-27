@@ -42,16 +42,7 @@ I'm a **DevOps Engineer** with **9+ years of experience**, specializing in **Obs
             <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100"
             width="100" /> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
-<!-- Azure -->
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg"
-       alt="azure" width="100" height="100" />
-</a>
-<!-- GCP -->
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-       alt="gcp" width="100" height="100" />
-</a>
+
 
 ### ☁️ Cloud & Infrastructure  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
