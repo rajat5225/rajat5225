@@ -22,20 +22,6 @@ I'm a **DevOps Engineer** with **9+ years of experience**, specializing in **Obs
         href="https://grafana.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="100" width="100" />
     </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <!-- AWS -->
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="aws-logo.png" alt="AWS" width="100" height="100" />
-</a>
-
-<!-- Azure -->
-<a href="https://azure.microsoft.com/en-in/" target="_blank">
-  <img src="azure-logo.png" alt="Azure" width="100" height="100" />
-</a>
-
-<!-- GCP -->
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="gcp-logo.png" alt="Google Cloud Platform" width="100" height="100" />
-</a>
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="100"
             width="100" /> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
             <img
