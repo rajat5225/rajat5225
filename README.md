@@ -43,19 +43,19 @@ I'm a **DevOps Engineer** with **9+ years of experience**, specializing in **Obs
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100"
             width="100" /> 
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
- <-- Apache Druid -->
+ <!-- Apache Druid -->
 <a href="https://druid.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://druid.apache.org/img/druid-nav-logo.svg"
+  <img src="https://druid.apache.org/img/druid.png"
        alt="apache druid" width="100" height="100" />
-<-- Apache Kafka -->
+<!-- Apache Kafka -->
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
        alt="apache kafka" width="100" height="100" />
-<-- Apache Zookeeper -->
+<!-- Apache Zookeeper -->
 <a href="https://zookeeper.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://zookeeper.apache.org/images/zookeeper_small.gif"
        alt="apache zookeeper" width="100" height="100" />
-<-- ClickHouse -->
+<!-- ClickHouse -->
 <a href="https://clickhouse.com/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/37043920?s=200&v=4"
        alt="clickhouse" width="100" height="100" />
