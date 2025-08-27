@@ -7,6 +7,8 @@
             
 ## 🚀 About Me  
 I'm a **DevOps Engineer** with **9+ years of experience**, specializing in **Observability, CI/CD, Cloud Infrastructure, and Automation**.  
+I'm  highly skilled and certified **DevOps Engineer** with over **9+ years of experience**,specilizing in cloud infrastructure, CI/CD pipelines, and system administration. Proficient in deploying and managing applications on AWS, GCP, and Azure, with expertise in Docker, Kubernetes, Terraform, Jenkins, and Git. Adept at designing secure and scalable cloud architectures,automating workflows, and leading cross-functional teams to deliver robust IT solutions.
+
 
 ## 🛠️ Tech Stack  
 <img
