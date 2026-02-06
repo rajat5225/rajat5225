@@ -14,8 +14,7 @@ I'm  highly skilled and certified **DevOps Engineer** with over **9+ years of ex
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="100" height="100" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"                                    
         rel="noreferrer">
-
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+        <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
        alt="gcp" width="100" height="100" />
             <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
