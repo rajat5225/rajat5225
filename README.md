@@ -6,8 +6,8 @@
             
             
 ## 🚀 About Me  
-I'm  highly skilled and certified AI-focused **DevOps Engineer** and Kubernetes Lead with **9+** years of experience designing, automating, and operating scalable cloud-native infrastructure across AWS, GCP, and Azure. Specialized in Kubernetes (EKS), Infrastructure as Code (Terraform, Ansible), CI/CD automation, and AI-ready cloud platforms. Experienced in deploying ML workloads, GPU-enabled clusters, AI-based monitoring, and building scalable MLOps pipelines. Strong background in cloud security, ISO 27001 compliance, disaster recovery, and maintaining 99.9%+ production uptime.
-
+I am a highly experienced and AWS-certified DevOps & AI Platform Engineer with 9+ years of expertise in designing, automating, and operating scalable cloud-native infrastructure across AWS, GCP, and Azure.
+I specialize in Kubernetes (EKS), Infrastructure as Code (Terraform, Ansible), and CI/CD automation, with a strong focus on building AI-ready platforms, MLOps pipelines, and LLMOps systems. I have hands-on experience deploying machine learning workloads, GPU-enabled clusters, and intelligent monitoring solutions, along with architecting scalable end-to-end ML pipelines. With a solid foundation in cloud security, ISO 27001 compliance, and disaster recovery, I consistently deliver high-performance, resilient systems. My track record includes 60% faster deployments, 25% cost reduction, 40% downtime improvement, and 50% fewer security vulnerabilities, while maintaining 99.9%+ uptime in production environments.
 
 ## 🛠️ Tech Stack  
 <img
